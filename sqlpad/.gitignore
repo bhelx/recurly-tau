@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.idea/*
+.vscode/settings.json
+client/build/
+server/public
+coverage/
+db/
+dbtest/
+node_modules/
